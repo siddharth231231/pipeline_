@@ -8,7 +8,7 @@ import org.testng.annotations.Test;
 import com.aventstack.extentreports.util.Assert;
 
 import baseClass.BaseClass;
-import utility.LogUtils;
+//import utility.LogUtils;
 //import utility.LogUtils;
 
 public class LoginPageValidation extends BaseClass {
@@ -21,8 +21,8 @@ public class LoginPageValidation extends BaseClass {
 	@Test(groups = {"Regression"})
 	private void errorMessageValidation() {
 		invokeBrowser();
-		driver.get("https://www.royallondon.com/");
-		LogUtils.info("Url Opened");
+		//driver.get("https://www.royallondon.com/");
+		//LogUtils.info("Url Opened");
 		
 		
 
