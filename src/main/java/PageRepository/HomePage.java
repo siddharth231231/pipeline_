@@ -10,7 +10,7 @@ public class HomePage extends AbstractComponent  {
 	int a=6;
 	int b=5;
 	
-	int conlict=0;
+	int newConlict=0;
 	
 	 
 	
