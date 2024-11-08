@@ -7,6 +7,7 @@ import utility.AbstractComponent;
 
 public class HomePage extends AbstractComponent  {
 	WebDriver driver;
+	int a=6;
 	 
 	
 	
