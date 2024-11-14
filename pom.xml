@@ -27,12 +27,12 @@
         </dependency>
 
         <!-- TestNG dependency -->
-        <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <version>7.10.2</version>
-            <scope>test</scope>
-        </dependency>
+		<dependency>
+		    <groupId>org.testng</groupId>
+		    <artifactId>testng</artifactId>
+		    <version>7.7.0</version> <!-- Or whatever version you are using -->
+		    <scope>test</scope>
+		</dependency>
 
         <!-- Selenium WebDriver dependency -->
         <dependency>
