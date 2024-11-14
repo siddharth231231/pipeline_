@@ -2,23 +2,23 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-11-07T12:27:56 IST" name="Suite" finished-at="2024-11-07T12:28:32 IST" duration-ms="36034">
+  <suite started-at="2024-11-14T17:23:01 IST" name="Suite" finished-at="2024-11-14T17:24:03 IST" duration-ms="61898">
     <groups>
       <group name="Regression">
         <method signature="LoginPageValidation.errorMessageValidation()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" name="errorMessageValidation" class="Tests.LoginPageValidation"/>
       </group> <!-- Regression -->
     </groups>
-    <test started-at="2024-11-07T12:27:56 IST" name="Test" finished-at="2024-11-07T12:28:32 IST" duration-ms="36034">
+    <test started-at="2024-11-14T17:23:01 IST" name="Test" finished-at="2024-11-14T17:24:03 IST" duration-ms="61898">
       <class name="Tests.LoginPageValidation">
-        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-07T12:27:57 IST" name="invokeBrowser" finished-at="2024-11-07T12:28:12 IST" duration-ms="14603" status="PASS">
+        <test-method is-config="true" signature="invokeBrowser()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-14T17:23:02 IST" name="invokeBrowser" finished-at="2024-11-14T17:23:48 IST" duration-ms="46061" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- invokeBrowser -->
-        <test-method signature="errorMessageValidation()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-07T12:28:12 IST" name="errorMessageValidation" finished-at="2024-11-07T12:28:32 IST" duration-ms="19780" status="PASS">
+        <test-method signature="errorMessageValidation()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-14T17:23:48 IST" name="errorMessageValidation" finished-at="2024-11-14T17:24:02 IST" duration-ms="14086" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- errorMessageValidation -->
-        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-07T12:28:32 IST" name="closeBrowser" finished-at="2024-11-07T12:28:32 IST" duration-ms="747" status="PASS">
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Tests.LoginPageValidation@36bc55de]" started-at="2024-11-14T17:24:02 IST" name="closeBrowser" finished-at="2024-11-14T17:24:03 IST" duration-ms="527" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeBrowser -->

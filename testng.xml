@@ -6,11 +6,7 @@
     </listeners>
 
     <test thread-count="5" name="Test">
-	<groups>
-		<run>
-			<include name="${testGroup}"></include>
-		</run>
-	</groups>
+
         <classes>
             <class name="Tests.LoginPageValidation"/>
         </classes>
